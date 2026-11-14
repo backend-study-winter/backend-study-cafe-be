@@ -34,4 +34,4 @@ cd backend-study-cafe-be
 git switch -c feature/member-register-octocat
 ```
 
-와이어프레임, ERD 초안, 세부 협업 규칙은 노션에서 확인할 수 있습니다. [백엔드 스터디 진행 방식](https://app.notion.com/p/41497daea4da8054bda0d205817cb17d)
+와이어프레임, ERD 초안, 세부 협업 규칙은 노션에서 확인할 수 있습니다.
